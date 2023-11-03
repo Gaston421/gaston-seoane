@@ -9,7 +9,7 @@ import Registro from "./componentes/Registro/Registro";
 function App() {
   return (
     <>
-      <BrowserRouter basename="/gaston-app">
+      <BrowserRouter basename="/">
         <Routes>
         <Route path="/" element={<ListaProductos />} />
         <Route path="/listaProductos" element={<ListaProductos />} />

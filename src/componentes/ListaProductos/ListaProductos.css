@@ -1,0 +1,56 @@
+/* ListaProductos.css */
+
+/* Estilos para el contenedor principal del componente ListaProductos */
+.ListaProductos {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el título "Lista de Productos" */
+  .ListaProductos h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el párrafo de descripción */
+  .ListaProductos p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  /* Estilos para la lista de productos */
+  .ListaProductos .productos-lista {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilos para cada elemento de la lista de productos */
+  .ListaProductos .producto-item {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el título de cada producto */
+  .ListaProductos .producto-item h3 {
+    font-size: 20px;
+    margin: 5px 0;
+  }
+  
+  /* Estilos para el precio de cada producto */
+  .ListaProductos .producto-item p {
+    font-size: 16px;
+    color: #4CAF50; /* Color de precio azul */
+    margin: 5px 0;
+  }
+  
+  /* Estilos para los enlaces "Ver Detalles" */
+  .ListaProductos .producto-item a {
+    text-decoration: none;
+    color: #007bff; /* Color de enlace azul */
+  }

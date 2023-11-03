@@ -1,0 +1,9 @@
+/* NavBar CSS */
+.navbar-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 60px; /* Ajusta la altura según tus necesidades */
+    background-color: #333; /* Estilo de fondo */
+    color: white; /* Color de texto */
+  }

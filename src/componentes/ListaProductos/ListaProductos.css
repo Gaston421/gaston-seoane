@@ -1,6 +1,4 @@
-/* ListaProductos.css */
 
-/* Estilos para el contenedor principal del componente ListaProductos */
 .ListaProductos {
     text-align: center;
     background-color: #fff;
@@ -49,8 +47,8 @@
     margin: 5px 0;
   }
   
-  /* Estilos para los enlaces "Ver Detalles" */
+  
   .ListaProductos .producto-item a {
     text-decoration: none;
-    color: #007bff; /* Color de enlace azul */
+    color: #007bff; 
   }

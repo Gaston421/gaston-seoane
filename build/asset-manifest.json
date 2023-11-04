@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gaston421/gaston421-app.git/static/css/main.dbc7c982.css",
+    "main.js": "/Gaston421/gaston421-app.git/static/js/main.2c9d87d7.js",
+    "static/js/787.bc7d429a.chunk.js": "/Gaston421/gaston421-app.git/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Gaston421/gaston421-app.git/index.html",
+    "main.dbc7c982.css.map": "/Gaston421/gaston421-app.git/static/css/main.dbc7c982.css.map",
+    "main.2c9d87d7.js.map": "/Gaston421/gaston421-app.git/static/js/main.2c9d87d7.js.map",
+    "787.bc7d429a.chunk.js.map": "/Gaston421/gaston421-app.git/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc7c982.css",
+    "static/js/main.2c9d87d7.js"
+  ]
+}

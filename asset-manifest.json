@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gaston-seoane/static/css/main.dbc7c982.css",
+    "main.js": "/gaston-seoane/static/js/main.449f2c9a.js",
+    "static/js/787.bc7d429a.chunk.js": "/gaston-seoane/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/gaston-seoane/index.html",
+    "main.dbc7c982.css.map": "/gaston-seoane/static/css/main.dbc7c982.css.map",
+    "main.449f2c9a.js.map": "/gaston-seoane/static/js/main.449f2c9a.js.map",
+    "787.bc7d429a.chunk.js.map": "/gaston-seoane/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc7c982.css",
+    "static/js/main.449f2c9a.js"
+  ]
+}
